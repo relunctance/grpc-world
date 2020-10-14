@@ -38,15 +38,4 @@ level=info ts=2020-03-28T10:45:44.794983Z caller=logging.go:28 method=Get key=he
 level=info ts=2020-03-28T10:47:02.666247Z caller=logging.go:28 method=Get key=hello val=world took=1.396µs err=null
 ```
 
-## 尾巴
-
-本章所用的测试代码已经更新到了Github上，如果您觉得有参考价值的，可以将代码clone 下来，最好能给个star。
-
-Github: `https://github.com/icowan/grpc-world`
-
-**谢谢了**
-
-**如果我写的内容对您有用，谢谢大家了**
-
-![](http://source.qiniu.cnd.nsini.com//static/pay/wechat-pay.JPG?imageView2/2/w/500/q/75|imageslim)
 
